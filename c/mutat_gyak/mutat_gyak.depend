@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1510403168 source:c:\users\james\desktop\c\mutat_gyak\main.c
+	<stdio.h>
+	<stdlib.h>
+

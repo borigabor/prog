@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1511949844 source:c:\users\james\desktop\c\dinamikus_tomb\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1509879998 source:c:\users\james\desktop\c\mutato_tombelem\main.c
+	<stdio.h>
+	<stdlib.h>
+

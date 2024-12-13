@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1510132350 source:c:\users\james\desktop\c\struktura_fuggveny\main.c
+	<stdio.h>
+	<stdlib.h>
+

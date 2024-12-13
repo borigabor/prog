@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1510128334 source:c:\users\james\desktop\c\mutato_tomben\main.c
+	<stdio.h>
+	<stdlib.h>
+
